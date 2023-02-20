@@ -3,7 +3,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'Thanos Dimitriades',
-    description: 'Portfolio and Blog created by Thanos Dimitriades, using Next.js.',
+    description: 'Portfolio and Blog created by Thanos Dimitriades using Next.js with Nextra.',
     image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
   }
 
